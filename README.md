@@ -10,4 +10,6 @@ K-P2PLab idea and document
 
 ## Architecture
 
+![](./figs/kpl-diagram.svg)
+
 ## Related Work using K-P2PLab
